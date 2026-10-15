@@ -1,0 +1,17 @@
+# Functions and Types of Operating Systems
+
+## Article Summary
+
+An operating system (OS) is essential software that acts as an interface between a user and computer hardware. It manages the computer's resources and provides an environment in which applications can run efficiently. Common examples of operating systems include Microsoft Windows, Linux, macOS, Android, and iOS.
+
+The operating system performs several important functions. One of its primary responsibilities is **process management**, which involves creating, scheduling, and terminating processes. It allows multiple programs to run efficiently by allocating CPU time to different tasks. Another important function is **memory management**, which allocates and deallocates memory to programs and ensures that applications use system memory properly.
+
+**File management** is another major function of an operating system. It organizes files and folders, controls access permissions, and helps users store and retrieve information. Similarly, **device management** controls hardware devices such as printers, keyboards, monitors, and storage drives through device drivers.
+
+Operating systems also provide security and protection by managing user accounts, authenticating users, and restricting unauthorized access. They offer a user interface, either graphical or command-line-based, through which users interact with the computer.
+
+There are different types of operating systems designed for specific purposes. A **Batch Operating System** executes groups of jobs without requiring continuous user interaction. A **Time-Sharing Operating System** allows multiple users to share computer resources simultaneously. A **Real-Time Operating System (RTOS)** processes data within defined time limits and is commonly used in industrial control systems and embedded devices.
+
+A **Distributed Operating System** manages multiple interconnected computers as a coordinated system, while a **Network Operating System** enables computers to share resources and communicate over a network. Mobile operating systems, such as Android and iOS, are designed specifically for smartphones and tablets.
+
+In conclusion, operating systems are fundamental to modern computing. Their functions ensure efficient resource utilization, security, and smooth execution of applications. Understanding the different types of operating systems helps students learn how computers operate and how operating systems are selected for different applications.
